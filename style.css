@@ -1,11 +1,11 @@
 .container {
   max-width: 1200px;
-  
   display: flex;
   justify-content: center;
   align-items: center;
   flex-wrap: wrap;
 }
+
 .item {
   width: 30%;
   margin: 10px;
@@ -16,24 +16,28 @@
   box-shadow: 0 0 10px rgba(red, green, blue, alpha);
 
 }
+
 .item img {
       width: 200px;
       margin-right: 20px;
 }
+
 .item h3 { 
       font-size: 24px;
       color: #333;
       margin-bottom: 10px;
 }
+
 .item p {
          margin-bottom: 10px;
          font-size: 17px;
          color: #666;
        }
-}
+
 .bnt:hover {
   background-color: #0059a3;
 }
+
 .menu {
   display: flex;
   justify-content: center;
@@ -53,22 +57,25 @@
   box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.2);
   transition: transform 0.3s ease-in-out;
 }
+
 .menu a:hover {
   color:cadetblue;
   .menu a
 }
+
 .link { 
   color:#f0f0f0
 }
+
 .k img { display: flex;
       justify-content: center;
       max-width: 100%;
       margin-bottom: 0;
       align-items: center;
-      width: 100%;
-    
+      width: 100%;    
     }
-    .k{ width: 100%;
+
+.k { width: 100%;
       margin: 0;
       padding:0;
       border-radius: center;
@@ -78,13 +85,12 @@
       display: flex;
       justify-content: center;
       align-items: center;
-      
-   }
+      }
+
 body { 
      background-color: #ffffff;
-  
-
 }
+
 header {
   background-color: #FFE600;
   padding: 0;
@@ -92,14 +98,13 @@ header {
   border-radius: 30px;
   box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.2);
   transition: transform 0.3s ease-in-out;
-
-  
 }
 
 header h1 {
   color: #333;
   font-size: 26px;
 }
+
 .credits__container {
       
       width: 10cm;
@@ -119,6 +124,7 @@ header h1 {
 .btn:hover {
   background-color: #c00;
 }
+
 .massa {
   border-top: 30px solid #0059a3 ;
   background-color: #0059a3;
@@ -126,8 +132,8 @@ header h1 {
   box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.2);
   transition: transform 0.3s ease-in-out;
   border-radius: 15px;
-  ;
 }
+
 .veja-mais {
   background-color: #4a79d8;
   color: #ffffff;
@@ -140,6 +146,7 @@ header h1 {
 .veja-mais:hover {
   background-color: #ff0000;
 }
+
 .search__input {
 
  width: 500px;
@@ -153,7 +160,6 @@ header h1 {
   transition: transform 0.3s ease-in-out;
 }
 
-
 body {
  
   font-family: Arial, sans-serif;
@@ -165,18 +171,21 @@ body {
   color:#f0f0f0;
   margin-right: 10px;
   padding-left: 10px;
-  padding: 10px;
-  
+  padding: 10px;  
 }
+
 .oo {
   width: 60px;
-  height: 30px;}
+  height: 30px;
+}
 
-  .LL {
+.LL {
     width: 300px;
     height: 150px;
-    margin-right: 5px;}
-    .mm {
+    margin-right: 5px;
+}
+
+.mm {
       display: flex;
       align-items: center;
-    }
+}
